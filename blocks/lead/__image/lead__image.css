@@ -1,4 +1,13 @@
 .lead__image {
+  display: block;
   margin: 64px 0 0;
   width: 100%;
+  object-fit: cover;
+}
+
+
+@media (max-width: 320px) {
+  .lead__image {
+    margin: 40px 0 0;
+  }
 }

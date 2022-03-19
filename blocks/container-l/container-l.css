@@ -1,0 +1,26 @@
+.container-l {
+	max-width: 1184px;
+	box-sizing: border-box;
+	margin: 92px auto 0;
+}
+
+@media (max-width: 1024px) {
+	.container-l {
+		max-width: 928px;
+	}
+}
+
+@media (max-width: 768px) {
+	.container-l {
+		margin: 88px auto 0;
+		max-width: 720px;
+	}
+}
+
+
+@media (max-width: 320px) {
+	.container-l {
+		margin: 64px auto 0;
+		max-width: 288px;
+	}
+}

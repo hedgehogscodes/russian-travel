@@ -1,0 +1,15 @@
+.place__row {
+	display: flex;
+	margin: 48px 0 0;
+}
+
+.place__row:first-of-type {
+	margin: 0;
+}
+
+@media (max-width: 455px) {
+	.place__row {
+		flex-direction: column;
+		margin: 32px 0 0;
+	}
+}

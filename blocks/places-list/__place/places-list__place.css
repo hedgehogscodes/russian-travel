@@ -1,0 +1,13 @@
+.places-list__place {
+	margin: 80px 0 0;
+}
+
+.places-list__place:first-of-type {
+	margin: 0;
+}
+
+@media (max-width: 768px) {
+	.places-list__place {
+		margin: 50px 0 0;
+	}
+}

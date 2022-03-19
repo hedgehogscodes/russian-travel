@@ -1,0 +1,9 @@
+.intro__inner {
+  max-width: 690px;
+}
+
+@media (max-width: 768px) {
+	.intro__inner {
+		max-width: 720px;
+	}
+}

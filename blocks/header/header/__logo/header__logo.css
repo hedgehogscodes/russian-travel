@@ -3,3 +3,12 @@
   height: 52px;
   background-image: url("../../../../images/__logo.png");
 }
+
+
+@media (max-width: 320px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+    background-image: url("../../../../images/__logo-s.png");
+  }
+}
