@@ -1,8 +1,7 @@
 .intro__list-item {
-    margin: 0;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 1.5;
+	margin: 0;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 1.5;
 }
