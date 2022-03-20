@@ -13,5 +13,5 @@
 3. Grid CSS
 4. Flex CSS
 
-* [Ссылка на GitHub Pages](https://hedgehogscods.github.io/russian-travel/)
+* [Ссылка на GitHub Pages](https://hedgehogscodes.github.io/russian-travel/)
 
