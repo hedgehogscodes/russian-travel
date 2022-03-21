@@ -4,9 +4,8 @@
 	padding-bottom: 24px;
 }
 
-@media (max-width: 660px) {
+@media (max-width: 680px) {
   .footer {
-		padding-left: 16px;
 		flex-direction: column;
 		gap: 48px;
 	}

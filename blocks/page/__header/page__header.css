@@ -1,9 +1,25 @@
 .page__header {
+  max-width: 1184px;
   margin: 28px auto 0;
 }
 
+@media (max-width: 1024px) {
+  .page__header {
+    max-width: 928px; 
+  }
+}
+
+@media (max-width: 768px) {
+  .page__header {
+    max-width: 720px;
+    margin: 28px 20px 0 20px;
+  }
+}
+
+
 @media (max-width: 320px) {
   .page__header {
+    max-width: 288px;
     margin: 16px auto 0;
   }
 }

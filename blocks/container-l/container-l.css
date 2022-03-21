@@ -7,12 +7,13 @@
 @media (max-width: 1024px) {
 	.container-l {
 		max-width: 928px;
+		margin: 92px auto 0;
 	}
 }
 
 @media (max-width: 768px) {
 	.container-l {
-		margin: 88px auto 0;
+		margin: 88px 20px 0 20px;
 		max-width: 720px;
 	}
 }
@@ -20,7 +21,7 @@
 
 @media (max-width: 320px) {
 	.container-l {
-		margin: 64px auto 0;
+		margin: 64px 15px 0 15px;
 		max-width: 288px;
 	}
 }
